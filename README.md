@@ -4,7 +4,7 @@
 This folder contains my latest CV. Feel free to download and review it.
 
 ## File Information
-- **Filename:** `Simonetti_CV.pdf` (or `.docx` if applicable)
+- **Filename:** `Simonetti_CV.pdf` 
 - **Last Updated:** 17/03/2025
 
 ## Contact
