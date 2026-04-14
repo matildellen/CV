@@ -4,8 +4,8 @@
 This folder contains my latest CV. Feel free to download and review it.
 
 ## File Information
-- **Filename:** `Simonetti_CV.pdf` 
-- **Last Updated:** 15/10/2025
+- **Filename:** `Simonetti_Matilde-Ellen_CV.pdf` 
+- **Last Updated:** 04/14/2026
 
 ## Contact
 If you have any questions, feel free to reach out:
