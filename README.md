@@ -7,7 +7,7 @@ For more information:
 **Website: https://matildellen.github.io/**
 
 ## File Information
-- **Filename:** `Simonetti_Matilde-Ellen_CV.pdf` 
+- **Filename:** `CV_Matilde_Simonetti.pdf` 
 - **Last Updated:** 06/11/2026
 
 ## Contact
