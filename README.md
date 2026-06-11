@@ -8,7 +8,7 @@ For more information:
 
 ## File Information
 - **Filename:** `Simonetti_Matilde-Ellen_CV.pdf` 
-- **Last Updated:** 05/19/2026
+- **Last Updated:** 06/11/2026
 
 ## Contact
 If you have any questions, feel free to reach out:
